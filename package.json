@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkhalam/bamazon.git"
+  },
+  "author": "David Khalameyzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkhalam/bamazon/issues"
+  },
+  "homepage": "https://github.com/dkhalam/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {}
+}
