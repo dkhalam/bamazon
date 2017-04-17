@@ -4,10 +4,11 @@ Bamazon utilizes key node and MySQL functionality to process customer requests b
 
 To use, make sure the following are installed and the MySQL server is started beforehand:
 
-MySQL
-Node.js
-npm install inquirer
-npm install mysql
+	1. MySQL
+	2. Node.js
+		1. npm install inquirer
+		2. npm install mysql
+		
 To start using the app, simply type in "node bamazonCustomer.js"
 
 Enjoy!
