@@ -7,7 +7,8 @@ CREATE TABLE `products` (
     `product_name` VARCHAR(100) NOT NULL,
     `department_name` VARCHAR(100) NOT NULL,
     `price` DECIMAL(12,2) NULL,
-    `stock_quantity` INT(10)
+    `stock_quantity` INT(10),
+    PRIMARY KEY (`item_id`)
 );
 
 SELECT * FROM `products`;
